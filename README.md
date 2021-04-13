@@ -1,10 +1,12 @@
-# ussd simulator with server code
+# USSD simulator with server code
 This project helps developers to be quick in designing ussd for mobile online or offline depends, but still it is open source
 
 JavaScript pure,Css pure,PHP functional
 
-## Contact me on:
+## Contact Yves on:
   * niyobuhungiro.yves@gmail.com
+## Contact Aime Didier on:
+  * aimedidiermugisha@gmail.com
 
 # Images of the project
 When opening the Simulator index.html
