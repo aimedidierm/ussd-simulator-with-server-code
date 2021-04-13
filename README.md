@@ -5,11 +5,10 @@ This project helps developers to be quick in designing ussd for mobile online or
 you can access this project online on https://aimedidierm.github.io/ussd-simulator-with-server-code/index.html
 
 JavaScript pure,Css pure,PHP functional
-
+## Contact Me on:
+  * aimedidiermugisha@gmail.com
 ## Contact Yves on:
   * niyobuhungiro.yves@gmail.com
-## Contact Aime Didier on:
-  * aimedidiermugisha@gmail.com
 
 # Images of the project
 When opening the Simulator index.html
